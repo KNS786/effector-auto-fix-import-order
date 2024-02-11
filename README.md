@@ -1,0 +1,1 @@
+# effector-auto-fix-import-order
